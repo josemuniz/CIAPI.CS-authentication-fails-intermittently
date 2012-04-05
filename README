@@ -1,0 +1,3 @@
+Sample app to test the authentication that is failing intermittently. Leave it
+running, and sooner or later it will fail. Since the problem seems to occur
+randomly, there's no way of telling how long will it take.
